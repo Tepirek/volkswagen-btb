@@ -1,0 +1,55 @@
+run.sh
+venv
+.idea
+.vscode
+Vue/node_modules
+
+# django
+App/App/__pycache__
+
+# database
+App/db.sqlite3
+Volkswagen BTB.session.sql
+
+# storage
+App/storage/summaries
+App/storage/reports
+
+# apps migrations
+App/Action/migrations/__pycache__
+App/BodyType/migrations/__pycache__
+App/Color/migrations/__pycache__
+App/ComponentType/migrations/__pycache__
+App/ErrorType/migrations/__pycache__
+App/InclusionType/migrations/__pycache__
+App/Logger/migrations/__pycache__
+App/Point/migrations/__pycache__
+App/Report/migrations/__pycache__
+App/User/migrations/__pycache__
+App/Summary/migrations/__pycache__
+
+# apps cache
+App/Action/__pycache__
+App/BodyType/__pycache__
+App/Color/__pycache__
+App/ComponentType/__pycache__
+App/ErrorType/__pycache__
+App/InclusionType/__pycache__
+App/Logger/__pycache__
+App/Point/__pycache__
+App/Report/__pycache__
+App/User/__pycache__
+App/Summary/__pycache__
+
+# apps management commands cache
+App/Action/management/commands/__pycache__
+App/BodyType/management/commands/__pycache__
+App/Color/management/commands/__pycache__
+App/ComponentType/management/commands/__pycache__
+App/ErrorType/management/commands/__pycache__
+App/InclusionType/management/commands/__pycache__
+App/Logger/management/commands/__pycache__
+App/Point/management/commands/__pycache__
+App/Report/management/commands/__pycache__
+App/User/management/commands/__pycache__
+App/Summary/management/commands/__pycache__
